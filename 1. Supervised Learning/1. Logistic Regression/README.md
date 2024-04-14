@@ -7,7 +7,7 @@ Project Overview
 
 This project implements a web application for predicting whether a customer will buy a product based on their age and salary.  It utilizes logistic regression, a machine learning algorithm, to make predictions.
 
-![K-Nearest Neighbors](build/html/_images/LR.png)
+![K-Nearest Neighbors](build/html/_images/LR.jpg)
 
 
 
