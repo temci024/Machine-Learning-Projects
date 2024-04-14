@@ -1,2 +1,0 @@
-```html
-<iframe src="C:\Users\USER\Documents\My GitHub Folder\Machine Learning\Machine-Learning-Projects\1. Supervised Learning\1. Logistic Regression\build\html\index.html" width="100%" height="500px"></iframe>
