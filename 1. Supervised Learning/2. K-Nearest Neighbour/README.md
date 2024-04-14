@@ -1,5 +1,5 @@
 
-Salary Estimation Using KNN’s documentation
+Salary Estimation - KNN
 ====================================================================================================================
 
 Project Overview

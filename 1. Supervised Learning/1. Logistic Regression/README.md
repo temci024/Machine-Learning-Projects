@@ -1,5 +1,5 @@
 
-Sale Prediction from Existing Customer - Logistic Regression's documentation!
+Sale Prediction from Existing Customer - Logistic Regression
 ====================================================================================================================
 
 Project Overview
