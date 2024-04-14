@@ -3,19 +3,17 @@ Handwritten Digit Recognition - SVM
 ====================================================================================================================
 
 Project Overview
--------------------------------------------------------------
+-------------------
+This project focuses on recognizing handwritten digits using Support Vector Machine (SVM) algorithm. 
+Handwritten digit recognition is a classic problem in the field of machine learning and computer vision, 
+with applications ranging from digitizing handwritten documents to automatic address reading in postal services.
 
-This project aims to estimate the salary of an employee based on various factors such as age, education, capital gain, and hours worked per week. It utilizes the K-Nearest Neighbors (KNN) algorithm to make predictions.
-
-![K-Nearest Neighbors](build/html/_images/knn.png)
+![K-Nearest Neighbors](build/html/_images/Support-Vector-Machine.png)
 
 
 
 Results
 -------------------------------------------
 
-![Evaluation Metrics](build/html/_images/2.1.jpg)
+![Model Performance](build/html/_images/3.1.jpg)
 
-\# Test the Model
-
-![Test the Model](build/html/_images/2.2.jpg)

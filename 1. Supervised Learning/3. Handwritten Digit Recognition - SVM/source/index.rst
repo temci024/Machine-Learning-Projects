@@ -18,7 +18,7 @@ Handwritten digit recognition is a classic problem in the field of machine learn
 with applications ranging from digitizing handwritten documents to automatic address reading in postal services.
 
 .. image:: Support-Vector-Machine.png
-   :alt: K-Nearest Neighbors
+   :alt: SVM
    :align: center
 
 Support-Vector-Machine Code

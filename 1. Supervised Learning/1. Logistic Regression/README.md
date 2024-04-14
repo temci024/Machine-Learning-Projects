@@ -3,18 +3,19 @@ Sale Prediction from Existing Customer - Logistic Regression's documentation!
 ====================================================================================================================
 
 Project Overview
--------------------
-This project focuses on recognizing handwritten digits using Support Vector Machine (SVM) algorithm. 
-Handwritten digit recognition is a classic problem in the field of machine learning and computer vision, 
-with applications ranging from digitizing handwritten documents to automatic address reading in postal services.
+-------------------------------------------------------------
 
-![K-Nearest Neighbors](build/html/_images/Support-Vector-Machine.png)
+This project implements a web application for predicting whether a customer will buy a product based on their age and salary. It utilizes logistic regression, a machine learning algorithm, to make predictions.
+
+![K-Nearest Neighbors](build/html/_images/LR.jpg)
 
 
 
 Results
 -------------------------------------------
 
-![Model Performance](build/html/_images/3.1.jpg)
+![Evaluation Metrics](build/html/_images/1.1.jpg)
 
+\# Test the Model
 
+![Test the Model](build/html/_images/1.2.jpg)
