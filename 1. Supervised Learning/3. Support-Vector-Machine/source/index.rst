@@ -24,7 +24,7 @@ with applications ranging from digitizing handwritten documents to automatic add
 Support-Vector-Machine Code
 --------------------------------
 
-.. literalinclude:: C:/Users/USER/Documents/My GitHub Folder/Machine Learning Project/Machine-Learning-Projects/1. Supervised Learning/3. Handwritten Digit Recognition - SVM/Handwritten Digit Recognition .py
+.. literalinclude:: C:/Users/USER/Documents/My GitHub Folder/Machine Learning Project/Machine-Learning-Projects/1. Supervised Learning/3. Support-Vector-Machine/Handwritten Digit Recognition .py
    :language: python
 
 
