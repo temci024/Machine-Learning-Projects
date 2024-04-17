@@ -20,7 +20,7 @@ def train_model(X_train, y_train):
 # Main function
 def main():
     # Title and header
-    st.title("Sale Prediction from Existing Customer")
+    st.title("Classification Model Evaluation - Sale Prediction from Existing Customer")
     st.header("Validating Logistic Regression Model")
 
     # Choose Dataset file from Local Directory
