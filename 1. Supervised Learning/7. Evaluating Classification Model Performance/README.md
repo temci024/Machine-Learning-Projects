@@ -15,6 +15,5 @@ Results
 -------------------------------------------
 ![Interface](build/html/_images/7.2.jpg)
 
-\# Test the Model
 
 ![Model Evaluation](build/html/_images/7.1.jpg)
