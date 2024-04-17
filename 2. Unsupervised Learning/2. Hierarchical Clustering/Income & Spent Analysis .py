@@ -33,9 +33,8 @@ def main():
     ax.set_xlabel('Customers')
     ax.set_ylabel('Distances')
     st.pyplot(fig)
-
     # Fitting the Hierarchical clustering to the dataset with n=5
-    model = AgglomerativeClustering(n_clusters=5, affinity='euclidean', linkage='average')
+    model = AgglomerativeClustering(n_clusters=5, linkage='average')
     y_means = model.fit_predict(dataset)
 
     # Visualizing the number of clusters n=5
